@@ -15,6 +15,8 @@ app.get('/titre_aleatoire', (req, res) => {
         const chansons = JSON.parse(data).nouvellesDonnees;
         const titreAleatoire = chansons[Math.floor(Math.random() * chansons.length)];
         res.json({ track: titreAleatoire["Track Title"] + ' - '+ titreAleatoire["Artist"]});
+
+
     });
 });
 
