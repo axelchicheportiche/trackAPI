@@ -1,14 +1,4 @@
 {
-  "track": [
-    "track1 - coucou",
-    "track2 - coucou",
-    "track3 - coucou",
-    "track4 - coucou",
-    "track5 - coucou",
-    "track6 - coucou",
-    "track7 - coucou",
-    "track8 - coucou"
-  ],
   "nouvellesDonnees": [
     {
       "#": "1",
@@ -89,19 +79,6 @@
       "Date Added": "2022-08-16"
     },
     {
-      "#": "7",
-      "Artwork": "",
-      "Track Title": "Don't Stop Me Now - ...Revisited",
-      "Artist": "Queen",
-      "Album": "Bohemian Rhapsody (The Original Soundtrack)",
-      "Genre": "",
-      "BPM": "77.51",
-      "Rating": "",
-      "Time": "03:37",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "8",
       "Artwork": "",
       "Track Title": "Dub Terror (Dub)",
@@ -113,19 +90,6 @@
       "Time": "03:51",
       "Key": "",
       "Date Added": "2022-08-16"
-    },
-    {
-      "#": "9",
-      "Artwork": "",
-      "Track Title": "Partenaire Particulier",
-      "Artist": "Partenaire Particulier",
-      "Album": "Le son des années 80",
-      "Genre": "",
-      "BPM": "78.03",
-      "Rating": "",
-      "Time": "04:05",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "10",
@@ -141,19 +105,6 @@
       "Date Added": "2022-08-16"
     },
     {
-      "#": "11",
-      "Artwork": "",
-      "Track Title": "Maniac",
-      "Artist": "Michael Sembello",
-      "Album": "Flashdance Original Soundtrack From The Motion Picture",
-      "Genre": "",
-      "BPM": "78.89",
-      "Rating": "",
-      "Time": "04:06",
-      "Key": "Ebm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "12",
       "Artwork": "",
       "Track Title": "Andrew",
@@ -165,45 +116,6 @@
       "Time": "02:50",
       "Key": "",
       "Date Added": "2022-06-25"
-    },
-    {
-      "#": "13",
-      "Artwork": "",
-      "Track Title": "Boombastic",
-      "Artist": "Shaggy",
-      "Album": "Boombastic",
-      "Genre": "",
-      "BPM": "79.17",
-      "Rating": "",
-      "Time": "04:10",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "14",
-      "Artwork": "",
-      "Track Title": "Boombastic",
-      "Artist": "Shaggy",
-      "Album": "Grand 90s (Vol 1)",
-      "Genre": "Reggae",
-      "BPM": "79.17",
-      "Rating": "",
-      "Time": "04:05",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "15",
-      "Artwork": "",
-      "Track Title": "Chan Chan",
-      "Artist": "Buena Vista Social Club",
-      "Album": "Buena Vista Social Club",
-      "Genre": "",
-      "BPM": "79.60",
-      "Rating": "",
-      "Time": "04:18",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "16",
@@ -219,19 +131,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "17",
-      "Artwork": "",
-      "Track Title": "Gangsta's Paradise",
-      "Artist": "Coolio, L.V.",
-      "Album": "Gangsta's Paradise",
-      "Genre": "",
-      "BPM": "79.95",
-      "Rating": "",
-      "Time": "04:00",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "18",
       "Artwork": "",
       "Track Title": "Wig Split",
@@ -243,19 +142,6 @@
       "Time": "01:51",
       "Key": "",
       "Date Added": "2022-06-25"
-    },
-    {
-      "#": "19",
-      "Artwork": "",
-      "Track Title": "Thank You",
-      "Artist": "Dido",
-      "Album": "No Angel",
-      "Genre": "",
-      "BPM": "79.99",
-      "Rating": "",
-      "Time": "03:38",
-      "Key": "B",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "20",
@@ -310,58 +196,6 @@
       "Date Added": "2022-06-25"
     },
     {
-      "#": "24",
-      "Artwork": "",
-      "Track Title": "Shake It Off",
-      "Artist": "Taylor Swift",
-      "Album": "1989 (Deluxe)",
-      "Genre": "",
-      "BPM": "80.00",
-      "Rating": "",
-      "Time": "03:39",
-      "Key": "G",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "25",
-      "Artwork": "",
-      "Track Title": "Mon papa à moi est un gangster",
-      "Artist": "Stomy Bugsy",
-      "Album": "Le calibre qu'il te faut",
-      "Genre": "",
-      "BPM": "80.40",
-      "Rating": "",
-      "Time": "06:01",
-      "Key": "Gm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "26",
-      "Artwork": "",
-      "Track Title": "Wake Me Up Before You Go-Go",
-      "Artist": "Wham!",
-      "Album": "Make It Big",
-      "Genre": "",
-      "BPM": "81.50",
-      "Rating": "",
-      "Time": "03:51",
-      "Key": "C",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "27",
-      "Artwork": "",
-      "Track Title": "Belle (with Patrick Fiori & Garou)",
-      "Artist": "Daniel Lavoie, Patrick Fiori, Garou",
-      "Album": "Notre Dame de Paris - Studio",
-      "Genre": "",
-      "BPM": "81.99",
-      "Rating": "",
-      "Time": "04:37",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "28",
       "Artwork": "",
       "Track Title": "Nice Up The Dance | Official Music Video",
@@ -388,19 +222,6 @@
       "Date Added": "2022-08-16"
     },
     {
-      "#": "30",
-      "Artwork": "",
-      "Track Title": "Killing In The Name",
-      "Artist": "Rage Against The Machine",
-      "Album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-      "Genre": "",
-      "BPM": "82.04",
-      "Rating": "",
-      "Time": "05:13",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "31",
       "Artwork": "",
       "Track Title": "BAM BAM",
@@ -412,19 +233,6 @@
       "Time": "03:16",
       "Key": "",
       "Date Added": "2022-08-16"
-    },
-    {
-      "#": "32",
-      "Artwork": "",
-      "Track Title": "L'aventurier",
-      "Artist": "Indochine",
-      "Album": "L'aventurier",
-      "Genre": "",
-      "BPM": "83.58",
-      "Rating": "",
-      "Time": "03:52",
-      "Key": "Abm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "33",
@@ -453,45 +261,6 @@
       "Date Added": "2022-06-25"
     },
     {
-      "#": "35",
-      "Artwork": "",
-      "Track Title": "Take on Me",
-      "Artist": "a-ha",
-      "Album": "Hunting High and Low",
-      "Genre": "",
-      "BPM": "84.50",
-      "Rating": "",
-      "Time": "03:45",
-      "Key": "A",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "36",
-      "Artwork": "",
-      "Track Title": "Clandestino",
-      "Artist": "Manu Chao",
-      "Album": "Clandestino",
-      "Genre": "",
-      "BPM": "85.00",
-      "Rating": "",
-      "Time": "02:29",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "37",
-      "Artwork": "",
-      "Track Title": "Ironic - 2015 Remaster",
-      "Artist": "Alanis Morissette",
-      "Album": "Jagged Little Pill (2015 Remaster)",
-      "Genre": "",
-      "BPM": "85.25",
-      "Rating": "",
-      "Time": "03:50",
-      "Key": "F#",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "38",
       "Artwork": "",
       "Track Title": "Ring the alarm",
@@ -503,19 +272,6 @@
       "Time": "03:11",
       "Key": "",
       "Date Added": "2022-08-16"
-    },
-    {
-      "#": "39",
-      "Artwork": "",
-      "Track Title": "Bitter Sweet Symphony - Remastered 2016",
-      "Artist": "The Verve",
-      "Album": "Urban Hymns (Deluxe / Remastered 2016)",
-      "Genre": "",
-      "BPM": "85.59",
-      "Rating": "",
-      "Time": "05:57",
-      "Key": "E",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "40",
@@ -531,32 +287,6 @@
       "Date Added": "2022-08-16"
     },
     {
-      "#": "41",
-      "Artwork": "",
-      "Track Title": "Zombie",
-      "Artist": "The Cranberries",
-      "Album": "No Need To Argue (The Complete Sessions 1994-1995)",
-      "Genre": "",
-      "BPM": "86.31",
-      "Rating": "",
-      "Time": "05:06",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "42",
-      "Artwork": "",
-      "Track Title": "Mr. Loverman (feat. Chevelle Franklin)",
-      "Artist": "Shabba Ranks, Chevelle Franklin, David Morales, Hugo Dwyer",
-      "Album": "Greatest Hits",
-      "Genre": "",
-      "BPM": "86.48",
-      "Rating": "",
-      "Time": "05:37",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "43",
       "Artwork": "",
       "Track Title": "World Crisis (Ft. Don Carlos)",
@@ -570,32 +300,6 @@
       "Date Added": "2022-08-16"
     },
     {
-      "#": "44",
-      "Artwork": "",
-      "Track Title": "Mambo No. 5 (a Little Bit of...)",
-      "Artist": "Lou Bega",
-      "Album": "A Little Bit of Mambo",
-      "Genre": "",
-      "BPM": "87.04",
-      "Rating": "",
-      "Time": "03:40",
-      "Key": "Bb",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "45",
-      "Artwork": "",
-      "Track Title": "Wonderwall",
-      "Artist": "Oasis",
-      "Album": "Stop the Clocks",
-      "Genre": "",
-      "BPM": "87.06",
-      "Rating": "",
-      "Time": "04:18",
-      "Key": "A",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "46",
       "Artwork": "",
       "Track Title": "Cool Me Off (Chopstick Dubplate Remix)",
@@ -607,58 +311,6 @@
       "Time": "04:08",
       "Key": "",
       "Date Added": "2022-06-25"
-    },
-    {
-      "#": "47",
-      "Artwork": "",
-      "Track Title": "J'irai où tu iras (with Jean-Jacques Goldman)",
-      "Artist": "Céline Dion, Jean-Jacques Goldman",
-      "Album": "D'eux - Édition 15ème Anniversaire",
-      "Genre": "",
-      "BPM": "87.44",
-      "Rating": "",
-      "Time": "03:27",
-      "Key": "G",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "48",
-      "Artwork": "",
-      "Track Title": "J'irai où tu iras (with Jean-Jacques Goldman)",
-      "Artist": "Céline Dion, Jean-Jacques Goldman",
-      "Album": "D'Eux",
-      "Genre": "",
-      "BPM": "87.45",
-      "Rating": "",
-      "Time": "03:25",
-      "Key": "G",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "49",
-      "Artwork": "",
-      "Track Title": "Genie In a Bottle",
-      "Artist": "Christina Aguilera",
-      "Album": "Keeps Gettin' Better: A Decade of Hits",
-      "Genre": "",
-      "BPM": "87.96",
-      "Rating": "",
-      "Time": "03:38",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "50",
-      "Artwork": "",
-      "Track Title": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
-      "Artist": "Francis Cabrel",
-      "Album": "Samedi soir sur la terre (Remastered)",
-      "Genre": "",
-      "BPM": "87.98",
-      "Rating": "",
-      "Time": "04:38",
-      "Key": "F#",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "51",
@@ -687,32 +339,6 @@
       "Date Added": "2023-06-09"
     },
     {
-      "#": "53",
-      "Artwork": "",
-      "Track Title": "No Diggity",
-      "Artist": "Blackstreet, Dr. Dre, Queen Pen",
-      "Album": "No Diggity: The Very Best Of Blackstreet",
-      "Genre": "",
-      "BPM": "88.65",
-      "Rating": "",
-      "Time": "05:04",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "54",
-      "Artwork": "",
-      "Track Title": "Despacito",
-      "Artist": "Luis Fonsi, Daddy Yankee",
-      "Album": "VIDA",
-      "Genre": "",
-      "BPM": "89.00",
-      "Rating": "",
-      "Time": "03:49",
-      "Key": "D",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "55",
       "Artwork": "",
       "Track Title": "MARIJUANA MI LUV",
@@ -726,32 +352,6 @@
       "Date Added": "2022-08-16"
     },
     {
-      "#": "56",
-      "Artwork": "",
-      "Track Title": "Livin' la Vida Loca",
-      "Artist": "Ricky Martin",
-      "Album": "The Greatest Hits",
-      "Genre": "",
-      "BPM": "89.01",
-      "Rating": "",
-      "Time": "04:03",
-      "Key": "Dbm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "57",
-      "Artwork": "",
-      "Track Title": "They Don't Care About Us",
-      "Artist": "Michael Jackson",
-      "Album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-      "Genre": "",
-      "BPM": "89.95",
-      "Rating": "",
-      "Time": "04:44",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "58",
       "Artwork": "",
       "Track Title": "Street Dog",
@@ -763,19 +363,6 @@
       "Time": "04:48",
       "Key": "Ab",
       "Date Added": "2023-03-21"
-    },
-    {
-      "#": "59",
-      "Artwork": "",
-      "Track Title": "Cosas de la Vida (Can't Stop Thinking of You)",
-      "Artist": "Eros Ramazzotti, Tina Turner",
-      "Album": "e2",
-      "Genre": "",
-      "BPM": "89.99",
-      "Rating": "",
-      "Time": "04:49",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "60",
@@ -804,32 +391,6 @@
       "Date Added": "2023-03-21"
     },
     {
-      "#": "62",
-      "Artwork": "",
-      "Track Title": "Pour que tu m'aimes encore",
-      "Artist": "Céline Dion",
-      "Album": "D'Eux",
-      "Genre": "",
-      "BPM": "90.12",
-      "Rating": "",
-      "Time": "04:14",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "63",
-      "Artwork": "",
-      "Track Title": "L'hymne de nos campagnes - Live",
-      "Artist": "Tryo",
-      "Album": "Mamagubida",
-      "Genre": "",
-      "BPM": "90.49",
-      "Rating": "",
-      "Time": "03:25",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "64",
       "Artwork": "",
       "Track Title": "Herbalist - Prince Fatty Mix - feat. Top Cat",
@@ -843,32 +404,6 @@
       "Date Added": "2022-08-16"
     },
     {
-      "#": "65",
-      "Artwork": "",
-      "Track Title": "Ma Benz (feat. Lord Kossity)",
-      "Artist": "Suprême NTM, Lord Kossity",
-      "Album": "L'intégrale",
-      "Genre": "",
-      "BPM": "91.04",
-      "Rating": "",
-      "Time": "04:07",
-      "Key": "F",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "66",
-      "Artwork": "",
-      "Track Title": "Freedom! '90 - Remastered",
-      "Artist": "George Michael",
-      "Album": "Ladies & Gentlemen",
-      "Genre": "",
-      "BPM": "91.78",
-      "Rating": "",
-      "Time": "06:28",
-      "Key": "C",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "67",
       "Artwork": "",
       "Track Title": "Ear Dreamin'",
@@ -880,71 +415,6 @@
       "Time": "04:41",
       "Key": "F#",
       "Date Added": "2023-03-09"
-    },
-    {
-      "#": "68",
-      "Artwork": "",
-      "Track Title": "Virtual Insanity - Remastered",
-      "Artist": "Jamiroquai",
-      "Album": "Travelling Without Moving (Remastered)",
-      "Genre": "",
-      "BPM": "92.10",
-      "Rating": "",
-      "Time": "05:41",
-      "Key": "Ebm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "69",
-      "Artwork": "",
-      "Track Title": "Killing Me Softly With His Song",
-      "Artist": "Fugees, Ms. Lauryn Hill",
-      "Album": "The Score (Expanded Edition)",
-      "Genre": "",
-      "BPM": "92.42",
-      "Rating": "",
-      "Time": "04:58",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "70",
-      "Artwork": "",
-      "Track Title": "No Scrubs",
-      "Artist": "TLC",
-      "Album": "Fanmail",
-      "Genre": "",
-      "BPM": "92.91",
-      "Rating": "",
-      "Time": "03:34",
-      "Key": "Abm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "71",
-      "Artwork": "",
-      "Track Title": "Mmm Mmm Mmm Mmm",
-      "Artist": "Crash Test Dummies",
-      "Album": "Collections",
-      "Genre": "",
-      "BPM": "92.96",
-      "Rating": "",
-      "Time": "03:53",
-      "Key": "Bb",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "72",
-      "Artwork": "",
-      "Track Title": "...Baby One More Time",
-      "Artist": "Britney Spears",
-      "Album": "...Baby One More Time (Digital Deluxe Version)",
-      "Genre": "",
-      "BPM": "92.98",
-      "Rating": "",
-      "Time": "03:31",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "73",
@@ -986,19 +456,6 @@
       "Date Added": "2023-03-09"
     },
     {
-      "#": "76",
-      "Artwork": "",
-      "Track Title": "Streets of Philadelphia",
-      "Artist": "Bruce Springsteen",
-      "Album": "Philadelphia",
-      "Genre": "",
-      "BPM": "93.68",
-      "Rating": "",
-      "Time": "03:52",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "77",
       "Artwork": "",
       "Track Title": "Louie Rankin \"typewriter\"",
@@ -1012,32 +469,6 @@
       "Date Added": "2022-08-16"
     },
     {
-      "#": "78",
-      "Artwork": "",
-      "Track Title": "Right Here",
-      "Artist": "SWV",
-      "Album": "Grand 90s (Vol 1)",
-      "Genre": "R& B",
-      "BPM": "93.99",
-      "Rating": "",
-      "Time": "03:41",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "79",
-      "Artwork": "",
-      "Track Title": "If You Had My Love",
-      "Artist": "Jennifer Lopez",
-      "Album": "On The 6",
-      "Genre": "",
-      "BPM": "94.00",
-      "Rating": "",
-      "Time": "04:26",
-      "Key": "Bm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "80",
       "Artwork": "",
       "Track Title": "Gato de Noche",
@@ -1049,19 +480,6 @@
       "Time": "03:47",
       "Key": "Bbm",
       "Date Added": "2023-10-14"
-    },
-    {
-      "#": "81",
-      "Artwork": "",
-      "Track Title": "I Love Rock 'N Roll",
-      "Artist": "Joan Jett & the Blackhearts",
-      "Album": "I Love Rock 'N' Roll (Expanded Edition)",
-      "Genre": "",
-      "BPM": "94.47",
-      "Rating": "",
-      "Time": "02:55",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "82",
@@ -1103,97 +521,6 @@
       "Date Added": "2023-10-14"
     },
     {
-      "#": "85",
-      "Artwork": "",
-      "Track Title": "The Next Episode",
-      "Artist": "Dr. Dre, Snoop Dogg",
-      "Album": "2001",
-      "Genre": "",
-      "BPM": "95.37",
-      "Rating": "",
-      "Time": "02:41",
-      "Key": "Ebm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "86",
-      "Artwork": "",
-      "Track Title": "Bye Bye (feat. Imane D.)",
-      "Artist": "Ménélik, Imane D.",
-      "Album": "Je me souviens",
-      "Genre": "",
-      "BPM": "95.50",
-      "Rating": "",
-      "Time": "03:43",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "87",
-      "Artwork": "",
-      "Track Title": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
-      "Artist": "DJ Snake, Selena Gomez, Ozuna, Cardi B",
-      "Album": "Carte Blanche",
-      "Genre": "",
-      "BPM": "96.00",
-      "Rating": "",
-      "Time": "03:32",
-      "Key": "Dbm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "88",
-      "Artwork": "",
-      "Track Title": "Torn",
-      "Artist": "Natalie Imbruglia",
-      "Album": "Left Of The Middle",
-      "Genre": "",
-      "BPM": "96.29",
-      "Rating": "",
-      "Time": "04:04",
-      "Key": "F",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "89",
-      "Artwork": "",
-      "Track Title": "Everybody Needs Somebody to Love",
-      "Artist": "The Blues Brothers",
-      "Album": "The Blues Brothers Original Motion Picture Soundtrack",
-      "Genre": "",
-      "BPM": "96.57",
-      "Rating": "",
-      "Time": "03:23",
-      "Key": "C",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "90",
-      "Artwork": "",
-      "Track Title": "Can I Kick It? - Contains Intro Of \"Can I Kick It?\"",
-      "Artist": "A Tribe Called Quest",
-      "Album": "The Wackness - Music from The Motion Picture",
-      "Genre": "",
-      "BPM": "96.69",
-      "Rating": "",
-      "Time": "04:25",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "91",
-      "Artwork": "",
-      "Track Title": "That's The Way Love Goes",
-      "Artist": "Janet Jackson",
-      "Album": "Grand 90s (Vol 1)",
-      "Genre": "Pop",
-      "BPM": "97.63",
-      "Rating": "",
-      "Time": "04:26",
-      "Key": "Gm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "92",
       "Artwork": "",
       "Track Title": "Centercourt",
@@ -1205,19 +532,6 @@
       "Time": "05:40",
       "Key": "Bbm",
       "Date Added": "2023-03-21"
-    },
-    {
-      "#": "93",
-      "Artwork": "",
-      "Track Title": "Maria Maria (feat. The Product G&B)",
-      "Artist": "Santana, The Product G&B",
-      "Album": "Ultimate Santana",
-      "Genre": "",
-      "BPM": "97.94",
-      "Rating": "",
-      "Time": "04:22",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "94",
@@ -1246,19 +560,6 @@
       "Date Added": "2023-10-14"
     },
     {
-      "#": "96",
-      "Artwork": "",
-      "Track Title": "Informer (Radio Edit)",
-      "Artist": "Snow",
-      "Album": "Now That's What I Call Music! 24 - CD 1",
-      "Genre": "Pop",
-      "BPM": "98.04",
-      "Rating": "",
-      "Time": "04:04",
-      "Key": "Abm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "97",
       "Artwork": "",
       "Track Title": "La Nuit - Mixed",
@@ -1283,71 +584,6 @@
       "Time": "02:00",
       "Key": "Dm",
       "Date Added": "2023-03-21"
-    },
-    {
-      "#": "99",
-      "Artwork": "",
-      "Track Title": "I Want It That Way",
-      "Artist": "Backstreet Boys",
-      "Album": "Millennium",
-      "Genre": "",
-      "BPM": "99.03",
-      "Rating": "",
-      "Time": "03:33",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "100",
-      "Artwork": "",
-      "Track Title": "Crazy In Love (feat. Jay-Z)",
-      "Artist": "Beyoncé, JAY-Z",
-      "Album": "Dangerously In Love",
-      "Genre": "",
-      "BPM": "99.27",
-      "Rating": "",
-      "Time": "03:56",
-      "Key": "Gm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "101",
-      "Artwork": "",
-      "Track Title": "Unchained Melody",
-      "Artist": "The Righteous Brothers",
-      "Album": "Just Once In My Life",
-      "Genre": "",
-      "BPM": "99.79",
-      "Rating": "",
-      "Time": "03:38",
-      "Key": "C",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "102",
-      "Artwork": "",
-      "Track Title": "Doo Wop (That Thing)",
-      "Artist": "Ms. Lauryn Hill",
-      "Album": "The Miseducation of Lauryn Hill",
-      "Genre": "",
-      "BPM": "99.91",
-      "Rating": "",
-      "Time": "05:20",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "103",
-      "Artwork": "",
-      "Track Title": "Bonne idée",
-      "Artist": "Jean-Jacques Goldman",
-      "Album": "En passant",
-      "Genre": "",
-      "BPM": "99.95",
-      "Rating": "",
-      "Time": "03:27",
-      "Key": "Ab",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "104",
@@ -1389,19 +625,6 @@
       "Date Added": "2023-10-14"
     },
     {
-      "#": "107",
-      "Artwork": "",
-      "Track Title": "Baila Baila Baila - Remix",
-      "Artist": "Ozuna, Daddy Yankee, J Balvin, Farruko, Anuel AA",
-      "Album": "Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",
-      "Genre": "",
-      "BPM": "100.00",
-      "Rating": "",
-      "Time": "03:55",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "108",
       "Artwork": "",
       "Track Title": "春雨",
@@ -1415,19 +638,6 @@
       "Date Added": "2023-03-09"
     },
     {
-      "#": "109",
-      "Artwork": "",
-      "Track Title": "Here Comes the Hotstepper",
-      "Artist": "Ini Kamoze",
-      "Album": "Ultimate 90s",
-      "Genre": "Pop",
-      "BPM": "100.33",
-      "Rating": "",
-      "Time": "04:10",
-      "Key": "Bm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "110",
       "Artwork": "",
       "Track Title": "Alright - Part Two",
@@ -1439,110 +649,6 @@
       "Time": "03:00",
       "Key": "Dm",
       "Date Added": "2023-01-12"
-    },
-    {
-      "#": "111",
-      "Artwork": "",
-      "Track Title": "(Hey Now) Girls Just Want to Have Fun",
-      "Artist": "Cyndi Lauper",
-      "Album": "Grand 90s (Vol 1)",
-      "Genre": "Pop",
-      "BPM": "101.59",
-      "Rating": "",
-      "Time": "03:38",
-      "Key": "F#",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "112",
-      "Artwork": "",
-      "Track Title": "Jump",
-      "Artist": "Kris Kross",
-      "Album": "Totally Krossed Out",
-      "Genre": "",
-      "BPM": "101.99",
-      "Rating": "",
-      "Time": "03:15",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "113",
-      "Artwork": "",
-      "Track Title": "Insane in the Brain",
-      "Artist": "Cypress Hill",
-      "Album": "Black Sunday",
-      "Genre": "",
-      "BPM": "102.20",
-      "Rating": "",
-      "Time": "03:28",
-      "Key": "A",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "114",
-      "Artwork": "",
-      "Track Title": "Fantasy",
-      "Artist": "Mariah Carey",
-      "Album": "Daydream",
-      "Genre": "",
-      "BPM": "102.38",
-      "Rating": "",
-      "Time": "04:03",
-      "Key": "G",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "115",
-      "Artwork": "",
-      "Track Title": "Je danse le Mia",
-      "Artist": "IAM",
-      "Album": "Ombre Est Lumière",
-      "Genre": "",
-      "BPM": "102.98",
-      "Rating": "",
-      "Time": "04:27",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "116",
-      "Artwork": "",
-      "Track Title": "Macarena",
-      "Artist": "Los Del Rio",
-      "Album": "Fiesta Macarena",
-      "Genre": "",
-      "BPM": "102.99",
-      "Rating": "",
-      "Time": "04:09",
-      "Key": "Abm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "117",
-      "Artwork": "",
-      "Track Title": "Macarena - Bayside Boys Remix",
-      "Artist": "Los Del Rio",
-      "Album": "Macarena (EP)",
-      "Genre": "",
-      "BPM": "103.20",
-      "Rating": "",
-      "Time": "03:44",
-      "Key": "Eb",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "118",
-      "Artwork": "",
-      "Track Title": "Two Princes",
-      "Artist": "Spin Doctors",
-      "Album": "Just Go Ahead Now: A Retrospective",
-      "Genre": "",
-      "BPM": "103.69",
-      "Rating": "",
-      "Time": "04:17",
-      "Key": "Bm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "119",
@@ -1610,19 +716,6 @@
       "Date Added": "2023-03-21"
     },
     {
-      "#": "124",
-      "Artwork": "",
-      "Track Title": "Save Tonight - 2018 Rendition",
-      "Artist": "Eagle-Eye Cherry",
-      "Album": "Save Tonight (2018 Rendition)",
-      "Genre": "",
-      "BPM": "106.00",
-      "Rating": "",
-      "Time": "03:51",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "125",
       "Artwork": "",
       "Track Title": "Orange Romeda",
@@ -1649,19 +742,6 @@
       "Date Added": "2023-03-09"
     },
     {
-      "#": "127",
-      "Artwork": "",
-      "Track Title": "You're The One That I Want - From \"Grease\" Original Motion Picture Soundtrack",
-      "Artist": "John Travolta, Olivia Newton-John",
-      "Album": "Grease (Deluxe Edition)",
-      "Genre": "",
-      "BPM": "106.94",
-      "Rating": "",
-      "Time": "02:49",
-      "Key": "C",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "128",
       "Artwork": "",
       "Track Title": "Calm Down",
@@ -1673,32 +753,6 @@
       "Time": "03:39",
       "Key": "Abm",
       "Date Added": "2023-10-14"
-    },
-    {
-      "#": "129",
-      "Artwork": "",
-      "Track Title": "Men In Black - From \"Men In Black\" Soundtrack",
-      "Artist": "Will Smith",
-      "Album": "Big Willie Style",
-      "Genre": "",
-      "BPM": "107.57",
-      "Rating": "",
-      "Time": "03:47",
-      "Key": "Bbm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "130",
-      "Artwork": "",
-      "Track Title": "Gettin' Jiggy Wit It",
-      "Artist": "Will Smith",
-      "Album": "Greatest Hits",
-      "Genre": "",
-      "BPM": "107.90",
-      "Rating": "",
-      "Time": "03:47",
-      "Key": "Bm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "131",
@@ -1714,19 +768,6 @@
       "Date Added": "2023-06-25"
     },
     {
-      "#": "132",
-      "Artwork": "",
-      "Track Title": "Watch Out For This (Bumaye)",
-      "Artist": "Major Lazer, Busy Signal, FS Green, The Flexican",
-      "Album": "Free the Universe",
-      "Genre": "",
-      "BPM": "108.00",
-      "Rating": "",
-      "Time": "04:29",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "133",
       "Artwork": "",
       "Track Title": "The Feeling",
@@ -1738,32 +779,6 @@
       "Time": "06:33",
       "Key": "12B",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "134",
-      "Artwork": "",
-      "Track Title": "Miami",
-      "Artist": "Will Smith",
-      "Album": "Big Willie Style",
-      "Genre": "",
-      "BPM": "108.16",
-      "Rating": "",
-      "Time": "03:17",
-      "Key": "Bbm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "135",
-      "Artwork": "",
-      "Track Title": "Upside Down",
-      "Artist": "Diana Ross",
-      "Album": "Diana",
-      "Genre": "",
-      "BPM": "108.24",
-      "Rating": "",
-      "Time": "04:05",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "136",
@@ -1779,19 +794,6 @@
       "Date Added": "2022-08-16"
     },
     {
-      "#": "137",
-      "Artwork": "",
-      "Track Title": "Chocolat (feat. Awa Imani)",
-      "Artist": "Lartiste, Awa Imani",
-      "Album": "Clandestino",
-      "Genre": "",
-      "BPM": "109.00",
-      "Rating": "",
-      "Time": "03:55",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "138",
       "Artwork": "",
       "Track Title": "01 rahaan - pressure point",
@@ -1803,32 +805,6 @@
       "Time": "06:42",
       "Key": "",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "139",
-      "Artwork": "",
-      "Track Title": "Think",
-      "Artist": "Aretha Franklin",
-      "Album": "Aretha Now",
-      "Genre": "",
-      "BPM": "109.89",
-      "Rating": "",
-      "Time": "02:19",
-      "Key": "B",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "140",
-      "Artwork": "",
-      "Track Title": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
-      "Artist": "Christina Aguilera, Lil' Kim, Mýa, P!nk",
-      "Album": "Moulin Rouge",
-      "Genre": "",
-      "BPM": "109.92",
-      "Rating": "",
-      "Time": "04:25",
-      "Key": "Gm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "141",
@@ -1857,32 +833,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "143",
-      "Artwork": "",
-      "Track Title": "Wannabe",
-      "Artist": "Spice Girls",
-      "Album": "Spice",
-      "Genre": "",
-      "BPM": "110.05",
-      "Rating": "",
-      "Time": "02:53",
-      "Key": "B",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "144",
-      "Artwork": "",
-      "Track Title": "In The Closet (12' Mix)",
-      "Artist": "Michael Jackson",
-      "Album": "Remixes And Rarities. 2CD (Star Mark Compilation 22587-1-2)",
-      "Genre": "Pop",
-      "BPM": "110.36",
-      "Rating": "",
-      "Time": "07:19",
-      "Key": "Bm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "145",
       "Artwork": "",
       "Track Title": "If It Hurts Just a Little",
@@ -1907,45 +857,6 @@
       "Time": "06:42",
       "Key": "9A",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "147",
-      "Artwork": "",
-      "Track Title": "Enjoy the Silence",
-      "Artist": "Depeche Mode",
-      "Album": "The Singles 86-98",
-      "Genre": "",
-      "BPM": "112.78",
-      "Rating": "",
-      "Time": "04:15",
-      "Key": "Eb",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "148",
-      "Artwork": "",
-      "Track Title": "On Da Rocks",
-      "Artist": "Thomas Bangalter",
-      "Album": "Free The Funk - Compilation 1",
-      "Genre": "Funk / Breakbeat / Downtempo",
-      "BPM": "113.03",
-      "Rating": "",
-      "Time": "04:10",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "149",
-      "Artwork": "",
-      "Track Title": "Romantic World",
-      "Artist": "Dana Dawson",
-      "Album": "Paris - New-York and Me",
-      "Genre": "",
-      "BPM": "113.49",
-      "Rating": "",
-      "Time": "04:47",
-      "Key": "Ebm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "150",
@@ -1974,32 +885,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "152",
-      "Artwork": "",
-      "Track Title": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
-      "Artist": "C & C Music Factory, Freedom Williams",
-      "Album": "Super Hits",
-      "Genre": "",
-      "BPM": "114.62",
-      "Rating": "",
-      "Time": "04:04",
-      "Key": "Bbm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "153",
-      "Artwork": "",
-      "Track Title": "Let's Dance - 2002 Remaster",
-      "Artist": "David Bowie",
-      "Album": "Let's Dance",
-      "Genre": "",
-      "BPM": "114.89",
-      "Rating": "",
-      "Time": "04:07",
-      "Key": "Bbm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "154",
       "Artwork": "",
       "Track Title": "King Bromeliad",
@@ -2011,19 +896,6 @@
       "Time": "08:52",
       "Key": "",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "155",
-      "Artwork": "",
-      "Track Title": "Michael Jackson Black Or White Lyrics",
-      "Artist": "",
-      "Album": "",
-      "Genre": "",
-      "BPM": "114.92",
-      "Rating": "",
-      "Time": "03:24",
-      "Key": "E",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "156",
@@ -2078,19 +950,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "160",
-      "Artwork": "",
-      "Track Title": "Uptown Funk (feat. Bruno Mars)",
-      "Artist": "Mark Ronson, Bruno Mars",
-      "Album": "Uptown Special",
-      "Genre": "",
-      "BPM": "115.00",
-      "Rating": "",
-      "Time": "04:29",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "161",
       "Artwork": "",
       "Track Title": "5 AM - Original Mix",
@@ -2117,19 +976,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "163",
-      "Artwork": "",
-      "Track Title": "Black or White",
-      "Artist": "Michael Jackson",
-      "Album": "Dangerous",
-      "Genre": "",
-      "BPM": "115.11",
-      "Rating": "",
-      "Time": "04:15",
-      "Key": "E",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "164",
       "Artwork": "",
       "Track Title": "Think Twice (Original 2002 Version)",
@@ -2154,32 +1000,6 @@
       "Time": "01:30",
       "Key": "Ebm",
       "Date Added": "2023-01-12"
-    },
-    {
-      "#": "166",
-      "Artwork": "",
-      "Track Title": "Highway to Hell",
-      "Artist": "AC/DC",
-      "Album": "Highway to Hell",
-      "Genre": "",
-      "BPM": "115.58",
-      "Rating": "",
-      "Time": "03:28",
-      "Key": "Abm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "167",
-      "Artwork": "",
-      "Track Title": "Ice Ice Baby",
-      "Artist": "Vanilla Ice",
-      "Album": "#1991",
-      "Genre": "",
-      "BPM": "115.81",
-      "Rating": "",
-      "Time": "04:31",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "168",
@@ -2299,45 +1119,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "177",
-      "Artwork": "",
-      "Track Title": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
-      "Artist": "Daft Punk, Pharrell Williams, Nile Rodgers",
-      "Album": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
-      "Genre": "",
-      "BPM": "116.05",
-      "Rating": "",
-      "Time": "04:08",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "178",
-      "Artwork": "",
-      "Track Title": "Smells Like Teen Spirit",
-      "Artist": "Nirvana",
-      "Album": "Nevermind (Remastered)",
-      "Genre": "",
-      "BPM": "116.66",
-      "Rating": "",
-      "Time": "05:02",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "179",
-      "Artwork": "",
-      "Track Title": "Smells Like Teen Spirit",
-      "Artist": "Nirvana",
-      "Album": "Grand 90s (Vol 1)",
-      "Genre": "Rock",
-      "BPM": "116.77",
-      "Rating": "",
-      "Time": "05:02",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "180",
       "Artwork": "",
       "Track Title": "Flute Loops (DJ Nature Remix)",
@@ -2364,32 +1145,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "182",
-      "Artwork": "",
-      "Track Title": "SexyBack (feat. Timbaland)",
-      "Artist": "Justin Timberlake, Timbaland",
-      "Album": "FutureSex/LoveSounds",
-      "Genre": "",
-      "BPM": "117.01",
-      "Rating": "",
-      "Time": "04:02",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "183",
-      "Artwork": "",
-      "Track Title": "Billie Jean",
-      "Artist": "Michael Jackson",
-      "Album": "Thriller 25 Super Deluxe Edition",
-      "Genre": "",
-      "BPM": "117.07",
-      "Rating": "",
-      "Time": "04:53",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "184",
       "Artwork": "",
       "Track Title": "Pong In A Tracksuit",
@@ -2414,19 +1169,6 @@
       "Time": "02:11",
       "Key": "Gm",
       "Date Added": "2023-01-12"
-    },
-    {
-      "#": "186",
-      "Artwork": "",
-      "Track Title": "Stand by Me",
-      "Artist": "Ben E. King",
-      "Album": "Don't Play That Song (Mono)",
-      "Genre": "",
-      "BPM": "117.86",
-      "Rating": "",
-      "Time": "03:00",
-      "Key": "A",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "187",
@@ -2832,19 +1574,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "218",
-      "Artwork": "",
-      "Track Title": "Cake By The Ocean",
-      "Artist": "DNCE",
-      "Album": "Music From Chasing Happiness",
-      "Genre": "",
-      "BPM": "119.00",
-      "Rating": "",
-      "Time": "03:39",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "219",
       "Artwork": "",
       "Track Title": "D'Angelo",
@@ -2895,19 +1624,6 @@
       "Time": "06:44",
       "Key": "B",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "223",
-      "Artwork": "",
-      "Track Title": "Just Dance",
-      "Artist": "Lady Gaga, Colby O'Donis",
-      "Album": "The Fame",
-      "Genre": "",
-      "BPM": "119.00",
-      "Rating": "",
-      "Time": "04:02",
-      "Key": "E",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "224",
@@ -2975,19 +1691,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "229",
-      "Artwork": "",
-      "Track Title": "Dancing in the Moonlight",
-      "Artist": "Toploader",
-      "Album": "Onka's Big Moka",
-      "Genre": "",
-      "BPM": "119.47",
-      "Rating": "",
-      "Time": "03:52",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "230",
       "Artwork": "",
       "Track Title": "Voodoo Ray",
@@ -2999,19 +1702,6 @@
       "Time": "04:27",
       "Key": "A",
       "Date Added": "2023-06-09"
-    },
-    {
-      "#": "231",
-      "Artwork": "",
-      "Track Title": "I'm Outta Love - Radio Edit",
-      "Artist": "Anastacia",
-      "Album": "Pieces Of A Dream",
-      "Genre": "",
-      "BPM": "119.48",
-      "Rating": "",
-      "Time": "04:05",
-      "Key": "Bbm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "232",
@@ -3077,19 +1767,6 @@
       "Time": "04:32",
       "Key": "Am",
       "Date Added": "2023-06-25"
-    },
-    {
-      "#": "237",
-      "Artwork": "",
-      "Track Title": "Cosmic Girl - Remastered",
-      "Artist": "Jamiroquai",
-      "Album": "Travelling Without Moving (Remastered)",
-      "Genre": "",
-      "BPM": "119.81",
-      "Rating": "",
-      "Time": "04:04",
-      "Key": "Dbm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "238",
@@ -3181,19 +1858,6 @@
       "Time": "03:23",
       "Key": "",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "245",
-      "Artwork": "",
-      "Track Title": "Wellerman - Sea Shanty / 220 KID x Billen Ted Remix",
-      "Artist": "Nathan Evans, 220 KID",
-      "Album": "Wellerman (Sea Shanty / 220 KID x Billen Ted Remix)",
-      "Genre": "",
-      "BPM": "119.96",
-      "Rating": "",
-      "Time": "01:56",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "246",
@@ -3612,19 +2276,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "278",
-      "Artwork": "",
-      "Track Title": "Call Me Maybe",
-      "Artist": "Carly Rae Jepsen",
-      "Album": "Tubes pour danser - Années 2000",
-      "Genre": "",
-      "BPM": "120.00",
-      "Rating": "",
-      "Time": "03:13",
-      "Key": "G",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "279",
       "Artwork": "",
       "Track Title": "Ne Travaillez Jamais",
@@ -3950,19 +2601,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "304",
-      "Artwork": "",
-      "Track Title": "Blurred Lines",
-      "Artist": "Robin Thicke, T.I., Pharrell Williams",
-      "Album": "Blurred Lines",
-      "Genre": "",
-      "BPM": "120.00",
-      "Rating": "",
-      "Time": "04:23",
-      "Key": "D",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "305",
       "Artwork": "",
       "Track Title": "GAZA2",
@@ -4132,32 +2770,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "318",
-      "Artwork": "",
-      "Track Title": "Enamorame",
-      "Artist": "Papi Sanchez",
-      "Album": "Yeah Baby!!",
-      "Genre": "",
-      "BPM": "120.05",
-      "Rating": "",
-      "Time": "04:22",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "319",
-      "Artwork": "",
-      "Track Title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "Artist": "ABBA",
-      "Album": "Voulez-Vous",
-      "Genre": "",
-      "BPM": "120.06",
-      "Rating": "",
-      "Time": "04:52",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "320",
       "Artwork": "",
       "Track Title": "Reach For Me",
@@ -4169,19 +2781,6 @@
       "Time": "07:22",
       "Key": "",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "321",
-      "Artwork": "",
-      "Track Title": "Finally",
-      "Artist": "CeCe Peniston",
-      "Album": "Grand 90s (Vol 1)",
-      "Genre": "Dance",
-      "BPM": "120.10",
-      "Rating": "",
-      "Time": "03:40",
-      "Key": "Bm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "322",
@@ -4249,19 +2848,6 @@
       "Date Added": "2023-04-06"
     },
     {
-      "#": "327",
-      "Artwork": "",
-      "Track Title": "Violenty Happy",
-      "Artist": "Bjork",
-      "Album": "Grand 90s (Vol 1)",
-      "Genre": "Pop",
-      "BPM": "120.28",
-      "Rating": "",
-      "Time": "03:34",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "328",
       "Artwork": "",
       "Track Title": "Fountain Gate",
@@ -4299,19 +2885,6 @@
       "Time": "02:34",
       "Key": "Dm",
       "Date Added": "2023-01-12"
-    },
-    {
-      "#": "331",
-      "Artwork": "",
-      "Track Title": "Girls Just Want to Have Fun",
-      "Artist": "Cyndi Lauper",
-      "Album": "True Colors: The Best Of Cyndi Lauper",
-      "Genre": "",
-      "BPM": "120.42",
-      "Rating": "",
-      "Time": "03:56",
-      "Key": "F#",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "332",
@@ -4377,19 +2950,6 @@
       "Time": "06:09",
       "Key": "9m",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "337",
-      "Artwork": "",
-      "Track Title": "Sarà perché ti amo",
-      "Artist": "Ricchi E Poveri",
-      "Album": "Ricchi e Poveri",
-      "Genre": "",
-      "BPM": "120.66",
-      "Rating": "",
-      "Time": "03:03",
-      "Key": "E",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "338",
@@ -4717,19 +3277,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "363",
-      "Artwork": "",
-      "Track Title": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "Artist": "Aerosmith",
-      "Album": "I Don't Want To Miss A Thing EP",
-      "Genre": "",
-      "BPM": "121.01",
-      "Rating": "",
-      "Time": "04:59",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "364",
       "Artwork": "",
       "Track Title": "House Music",
@@ -4756,32 +3303,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "366",
-      "Artwork": "",
-      "Track Title": "Saga Africa (ambiance secousse)",
-      "Artist": "Yannick Noah",
-      "Album": "Black & What!",
-      "Genre": "",
-      "BPM": "121.11",
-      "Rating": "",
-      "Time": "03:48",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "367",
-      "Artwork": "",
-      "Track Title": "Last Night - Official Madison Song",
-      "Artist": "Chris Anderson, DJ Robbie",
-      "Album": "Last Night (Best of Dance Music)",
-      "Genre": "",
-      "BPM": "121.24",
-      "Rating": "",
-      "Time": "03:26",
-      "Key": "G",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "368",
       "Artwork": "",
       "Track Title": "I Will Never Forget My 730ED!",
@@ -4806,19 +3327,6 @@
       "Time": "06:24",
       "Key": "A",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "370",
-      "Artwork": "",
-      "Track Title": "Around The World",
-      "Artist": "Daft Punk",
-      "Album": "Homework",
-      "Genre": "Electronica/Dance",
-      "BPM": "121.29",
-      "Rating": "",
-      "Time": "07:09",
-      "Key": "G",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "371",
@@ -4897,32 +3405,6 @@
       "Time": "07:01",
       "Key": "Cm",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "377",
-      "Artwork": "",
-      "Track Title": "Celebration",
-      "Artist": "Kool & The Gang",
-      "Album": "Celebrate!",
-      "Genre": "",
-      "BPM": "121.58",
-      "Rating": "",
-      "Time": "04:58",
-      "Key": "Abm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "378",
-      "Artwork": "",
-      "Track Title": "Good Vibrations",
-      "Artist": "Marky Mark and The Funky Bunch",
-      "Album": "D3: The Mighty Ducks",
-      "Genre": "Soundtrack",
-      "BPM": "121.64",
-      "Rating": "",
-      "Time": "04:30",
-      "Key": "Bbm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "379",
@@ -5042,19 +3524,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "388",
-      "Artwork": "",
-      "Track Title": "Without You",
-      "Artist": "Mariah Carey",
-      "Album": "Music Box",
-      "Genre": "",
-      "BPM": "121.88",
-      "Rating": "",
-      "Time": "03:35",
-      "Key": "F#",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "389",
       "Artwork": "",
       "Track Title": "Get Into The Music (Serious Club Mix)",
@@ -5079,19 +3548,6 @@
       "Time": "06:27",
       "Key": "Am",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "391",
-      "Artwork": "",
-      "Track Title": "Le pouvoir des fleurs",
-      "Artist": "Laurent Voulzy",
-      "Album": "Caché derrière",
-      "Genre": "",
-      "BPM": "121.95",
-      "Rating": "",
-      "Time": "03:35",
-      "Key": "Bb",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "392",
@@ -5549,19 +4005,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "427",
-      "Artwork": "",
-      "Track Title": "I Follow Rivers - The Magician Remix",
-      "Artist": "Lykke Li, The Magician",
-      "Album": "Wounded Rhymes",
-      "Genre": "",
-      "BPM": "122.00",
-      "Rating": "",
-      "Time": "04:39",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "428",
       "Artwork": "",
       "Track Title": "Better Days",
@@ -5729,19 +4172,6 @@
       "Time": "05:02",
       "Key": "Dbm",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "441",
-      "Artwork": "",
-      "Track Title": "Alane - Radio Version",
-      "Artist": "Wes",
-      "Album": "Welenga",
-      "Genre": "",
-      "BPM": "122.00",
-      "Rating": "",
-      "Time": "03:39",
-      "Key": "Eb",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "442",
@@ -5924,32 +4354,6 @@
       "Time": "06:41",
       "Key": "Em",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "456",
-      "Artwork": "",
-      "Track Title": "Conga!",
-      "Artist": "Miami Sound Machine",
-      "Album": "Primitive Love",
-      "Genre": "",
-      "BPM": "122.29",
-      "Rating": "",
-      "Time": "04:14",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "457",
-      "Artwork": "",
-      "Track Title": "Conga",
-      "Artist": "Gloria Estefan, Miami Sound Machine",
-      "Album": "The Master Of Disguise - Music From The Motion Picture",
-      "Genre": "",
-      "BPM": "122.31",
-      "Rating": "",
-      "Time": "04:14",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "458",
@@ -6327,32 +4731,6 @@
       "Time": "05:52",
       "Key": "Em",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "487",
-      "Artwork": "",
-      "Track Title": "I Like To Move It (feat. The Mad Stuntman) - Erick \"More\" Album Mix",
-      "Artist": "Reel 2 Real, The Mad Stuntman, Erick Morillo",
-      "Album": "Move It!",
-      "Genre": "",
-      "BPM": "122.98",
-      "Rating": "",
-      "Time": "03:50",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "488",
-      "Artwork": "",
-      "Track Title": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
-      "Artist": "Riton, Nightcrawlers, Mufasa & Hypeman, Dopamine",
-      "Album": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
-      "Genre": "",
-      "BPM": "122.98",
-      "Rating": "",
-      "Time": "02:49",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "489",
@@ -6901,19 +5279,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "531",
-      "Artwork": "",
-      "Track Title": "Seven Nation Army",
-      "Artist": "Gaullin, Julian Perretta",
-      "Album": "Seven Nation Army",
-      "Genre": "",
-      "BPM": "123.00",
-      "Rating": "",
-      "Time": "02:53",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "532",
       "Artwork": "",
       "Track Title": "Craehzrhd",
@@ -7198,19 +5563,6 @@
       "Time": "04:23",
       "Key": "",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "554",
-      "Artwork": "",
-      "Track Title": "Love Tonight (Robin Schulz Remix)",
-      "Artist": "Shouse, Robin Schulz",
-      "Album": "Love Tonight (Robin Schulz Remix)",
-      "Genre": "",
-      "BPM": "123.00",
-      "Rating": "",
-      "Time": "03:04",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "555",
@@ -7627,19 +5979,6 @@
       "Time": "07:15",
       "Key": "F",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "587",
-      "Artwork": "",
-      "Track Title": "Haddaway - What Is Love Official Music Video",
-      "Artist": "",
-      "Album": "",
-      "Genre": "",
-      "BPM": "123.87",
-      "Rating": "",
-      "Time": "04:32",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "588",
@@ -8500,19 +6839,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "654",
-      "Artwork": "",
-      "Track Title": "Jerusalema (feat. Nomcebo Zikode)",
-      "Artist": "Master KG, Nomcebo Zikode",
-      "Album": "Jerusalema",
-      "Genre": "",
-      "BPM": "124.00",
-      "Rating": "",
-      "Time": "05:42",
-      "Key": "Db",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "655",
       "Artwork": "",
       "Track Title": "Scouse Afrika (Original Mix) [EDIBLE]",
@@ -9007,19 +7333,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "693",
-      "Artwork": "",
-      "Track Title": "Suavemente",
-      "Artist": "Elvis Crespo",
-      "Album": "Suavemente...Los Exitos",
-      "Genre": "",
-      "BPM": "124.17",
-      "Rating": "",
-      "Time": "04:26",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "694",
       "Artwork": "",
       "Track Title": "In the Heat of the Night (Acid Mix)",
@@ -9187,19 +7500,6 @@
       "Time": "07:56",
       "Key": "Bb",
       "Date Added": "2023-06-09"
-    },
-    {
-      "#": "707",
-      "Artwork": "",
-      "Track Title": "Sing Hallelujah!",
-      "Artist": "Dr. Alban",
-      "Album": "One Love",
-      "Genre": "",
-      "BPM": "124.69",
-      "Rating": "",
-      "Time": "04:01",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "708",
@@ -10749,19 +9049,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "827",
-      "Artwork": "",
-      "Track Title": "Intoxicated - Radio Edit",
-      "Artist": "Martin Solveig, GTA",
-      "Album": "Intoxicated (Radio Edit)",
-      "Genre": "",
-      "BPM": "125.00",
-      "Rating": "",
-      "Time": "02:38",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "828",
       "Artwork": "",
       "Track Title": "Mauna Loa (Original Mix)",
@@ -11074,32 +9361,6 @@
       "Date Added": "2023-09-08"
     },
     {
-      "#": "852",
-      "Artwork": "",
-      "Track Title": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix",
-      "Artist": "Whitney Houston, David Solomon",
-      "Album": "I Wanna Dance with Somebody (Who Loves Me) [David Solomon Remix]",
-      "Genre": "",
-      "BPM": "125.00",
-      "Rating": "",
-      "Time": "03:21",
-      "Key": "F#",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "853",
-      "Artwork": "",
-      "Track Title": "We No Speak Americano (Edit)",
-      "Artist": "Yolanda Be Cool, DCup",
-      "Album": "We No Speak Americano",
-      "Genre": "",
-      "BPM": "125.00",
-      "Rating": "",
-      "Time": "02:37",
-      "Key": "Bbm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "854",
       "Artwork": "",
       "Track Title": "Bongoso",
@@ -11256,19 +9517,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "866",
-      "Artwork": "",
-      "Track Title": "Sweet Dreams (Are Made of This) - Remastered",
-      "Artist": "Eurythmics, Annie Lennox, Dave Stewart",
-      "Album": "Sweet Dreams (Are Made Of This)",
-      "Genre": "",
-      "BPM": "125.15",
-      "Rating": "",
-      "Time": "03:37",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "867",
       "Artwork": "",
       "Track Title": "All In The Same Family (Original Mix)",
@@ -11345,19 +9593,6 @@
       "Time": "04:22",
       "Key": "Dmin",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "873",
-      "Artwork": "",
-      "Track Title": "Step by Step",
-      "Artist": "New Kids On The Block",
-      "Album": "Step By Step",
-      "Genre": "",
-      "BPM": "125.33",
-      "Rating": "",
-      "Time": "04:27",
-      "Key": "Bm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "874",
@@ -11462,19 +9697,6 @@
       "Time": "06:42",
       "Key": "4A",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "882",
-      "Artwork": "",
-      "Track Title": "Losing My Religion",
-      "Artist": "R.E.M.",
-      "Album": "Out Of Time",
-      "Genre": "",
-      "BPM": "125.60",
-      "Rating": "",
-      "Time": "04:28",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "883",
@@ -12309,19 +10531,6 @@
       "Date Added": "2023-04-06"
     },
     {
-      "#": "947",
-      "Artwork": "",
-      "Track Title": "I Love It (feat. Charli XCX)",
-      "Artist": "Icona Pop, Charli XCX",
-      "Album": "THIS IS... ICONA POP",
-      "Genre": "",
-      "BPM": "126.00",
-      "Rating": "",
-      "Time": "02:36",
-      "Key": "Db",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "948",
       "Artwork": "",
       "Track Title": "Scott Says",
@@ -12686,19 +10895,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "976",
-      "Artwork": "",
-      "Track Title": "Alexandrie Alexandra",
-      "Artist": "Claude François",
-      "Album": "Magnolias For Ever",
-      "Genre": "",
-      "BPM": "126.13",
-      "Rating": "",
-      "Time": "04:22",
-      "Key": "Bm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "977",
       "Artwork": "",
       "Track Title": "Access [ClapCrate.com]",
@@ -12725,19 +10921,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "979",
-      "Artwork": "",
-      "Track Title": "Les sunlights des tropiques",
-      "Artist": "Gilbert Montagné",
-      "Album": "Liberté",
-      "Genre": "",
-      "BPM": "126.33",
-      "Rating": "",
-      "Time": "03:57",
-      "Key": "Bb",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "980",
       "Artwork": "",
       "Track Title": "Africa (K&F Edit)",
@@ -12751,19 +10934,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "981",
-      "Artwork": "",
-      "Track Title": "September",
-      "Artist": "Earth, Wind & Fire",
-      "Album": "The Best Of Earth, Wind & Fire Vol. 1",
-      "Genre": "",
-      "BPM": "126.49",
-      "Rating": "",
-      "Time": "03:35",
-      "Key": "A",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "982",
       "Artwork": "",
       "Track Title": "95 North presents Prime Time - Still Of The Night",
@@ -12775,19 +10945,6 @@
       "Time": "05:07",
       "Key": "Ab",
       "Date Added": "2023-06-09"
-    },
-    {
-      "#": "983",
-      "Artwork": "",
-      "Track Title": "Rasputin",
-      "Artist": "Boney M.",
-      "Album": "Daddy Cool",
-      "Genre": "",
-      "BPM": "126.56",
-      "Rating": "",
-      "Time": "03:40",
-      "Key": "Bm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "984",
@@ -12814,19 +10971,6 @@
       "Time": "06:07",
       "Key": "",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "986",
-      "Artwork": "",
-      "Track Title": "YMCA",
-      "Artist": "Village People",
-      "Album": "Can't Stop the Music (Original Soundtrack 1980)",
-      "Genre": "",
-      "BPM": "126.65",
-      "Rating": "",
-      "Time": "03:21",
-      "Key": "F#",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "987",
@@ -13323,19 +11467,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "1025",
-      "Artwork": "",
-      "Track Title": "Evacuate The Dancefloor",
-      "Artist": "Cascada",
-      "Album": "Evacuate The Dancefloor",
-      "Genre": "",
-      "BPM": "127.00",
-      "Rating": "",
-      "Time": "03:27",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1026",
       "Artwork": "",
       "Track Title": "Chiapet - Westworld (Skylark Remix) DJLIST.ORG",
@@ -13791,19 +11922,6 @@
       "Date Added": "2023-03-04"
     },
     {
-      "#": "1061",
-      "Artwork": "",
-      "Track Title": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
-      "Artist": "Shakira, Freshlyground",
-      "Album": "Listen Up! The Official 2010 FIFA World Cup Album",
-      "Genre": "",
-      "BPM": "127.00",
-      "Rating": "",
-      "Time": "03:22",
-      "Key": "D",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1062",
       "Artwork": "",
       "Track Title": "Take Me to My House",
@@ -13880,19 +11998,6 @@
       "Time": "10:18",
       "Key": "Am",
       "Date Added": "2023-06-09"
-    },
-    {
-      "#": "1068",
-      "Artwork": "",
-      "Track Title": "I Know You Want Me (Calle Ocho)",
-      "Artist": "Pitbull",
-      "Album": "Pitbull Starring In Rebelution",
-      "Genre": "",
-      "BPM": "127.04",
-      "Rating": "",
-      "Time": "03:57",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1069",
@@ -14023,19 +12128,6 @@
       "Time": "05:16",
       "Key": "8A",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "1079",
-      "Artwork": "",
-      "Track Title": "Quand la musique est bonne",
-      "Artist": "Jean-Jacques Goldman",
-      "Album": "Singulier 81 - 89",
-      "Genre": "",
-      "BPM": "127.60",
-      "Rating": "",
-      "Time": "03:50",
-      "Key": "Gm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1080",
@@ -14181,32 +12273,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "1091",
-      "Artwork": "",
-      "Track Title": "The Rhythm Of The Night",
-      "Artist": "Corona",
-      "Album": "100 Oldies Deel 2",
-      "Genre": "varieert",
-      "BPM": "127.88",
-      "Rating": "",
-      "Time": "04:22",
-      "Key": "Bbm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "1092",
-      "Artwork": "",
-      "Track Title": "The Rhythm of the Night",
-      "Artist": "Corona",
-      "Album": "The Rhythm of the Night",
-      "Genre": "",
-      "BPM": "127.88",
-      "Rating": "",
-      "Time": "04:24",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1093",
       "Artwork": "",
       "Track Title": "Kinetic - Frank De Wulf Remix",
@@ -14233,19 +12299,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "1095",
-      "Artwork": "",
-      "Track Title": "It's Not Right But It's Okay",
-      "Artist": "Whitney Houston",
-      "Album": "My Love Is Your Love",
-      "Genre": "",
-      "BPM": "127.96",
-      "Rating": "",
-      "Time": "04:52",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1096",
       "Artwork": "",
       "Track Title": "Why They Hide Their Bodies Under My Garage ?",
@@ -14257,19 +12310,6 @@
       "Time": "06:04",
       "Key": "Abm",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "1097",
-      "Artwork": "",
-      "Track Title": "Moves Like Jagger",
-      "Artist": "Maroon 5, Christina Aguilera",
-      "Album": "Singles",
-      "Genre": "",
-      "BPM": "127.98",
-      "Rating": "",
-      "Time": "03:22",
-      "Key": "Bm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1098",
@@ -14519,45 +12559,6 @@
       "Date Added": "2023-03-21"
     },
     {
-      "#": "1117",
-      "Artwork": "",
-      "Track Title": "I Gotta Feeling - Edit",
-      "Artist": "Black Eyed Peas",
-      "Album": "I Gotta Feeling (International Version)",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "04:05",
-      "Key": "C",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "1118",
-      "Artwork": "",
-      "Track Title": "I Gotta Feeling",
-      "Artist": "Black Eyed Peas",
-      "Album": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "04:49",
-      "Key": "C",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "1119",
-      "Artwork": "",
-      "Track Title": "Rock This Party - Everybody Dance Now",
-      "Artist": "Bob Sinclar, Cutee B., DollarMan, Big Ali, Makedah",
-      "Album": "Rock This Party (Everybody Dance Now)",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "04:05",
-      "Key": "Bbm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1120",
       "Artwork": "",
       "Track Title": "5A - Fatherless",
@@ -14636,19 +12637,6 @@
       "Date Added": "2023-09-08"
     },
     {
-      "#": "1126",
-      "Artwork": "",
-      "Track Title": "Laisse-toi aller bébé - Radio Mix",
-      "Artist": "Collectif Métissé",
-      "Album": "Collectif Metissé",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "03:20",
-      "Key": "Gm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1127",
       "Artwork": "",
       "Track Title": "Flight Lush",
@@ -14662,19 +12650,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "1128",
-      "Artwork": "",
-      "Track Title": "I'm Good (Blue)",
-      "Artist": "David Guetta, Bebe Rexha",
-      "Album": "I'm Good (Blue)",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "02:55",
-      "Key": "Gm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1129",
       "Artwork": "",
       "Track Title": "For Club Use Only (Original Mix)",
@@ -14686,19 +12661,6 @@
       "Time": "08:22",
       "Key": "F",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "1130",
-      "Artwork": "",
-      "Track Title": "Bailar",
-      "Artist": "Deorro, Elvis Crespo",
-      "Album": "Bailar",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "02:40",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1131",
@@ -14725,19 +12687,6 @@
       "Time": "07:37",
       "Key": "Am",
       "Date Added": "2022-07-01"
-    },
-    {
-      "#": "1133",
-      "Artwork": "",
-      "Track Title": "Barbra Streisand - Radio Edit",
-      "Artist": "Duck Sauce",
-      "Album": "Barbra Streisand",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "03:14",
-      "Key": "Ebm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1134",
@@ -14842,45 +12791,6 @@
       "Time": "05:46",
       "Key": "",
       "Date Added": "2022-07-01"
-    },
-    {
-      "#": "1142",
-      "Artwork": "",
-      "Track Title": "Rayos de Sol - Original Mix",
-      "Artist": "José de Rico, Henry Mendez",
-      "Album": "Rayos de Sol",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "03:51",
-      "Key": "Eb",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "1143",
-      "Artwork": "",
-      "Track Title": "Pursuit Of Happiness - Extended Steve Aoki Remix",
-      "Artist": "Kid Cudi, MGMT, Ratatat, Steve Aoki",
-      "Album": "Pursuit Of Happiness [Extended Steve Aoki Remix (Explicit)]",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "06:13",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "1144",
-      "Artwork": "",
-      "Track Title": "What is Love - Klaas Radio Edit",
-      "Artist": "Klaas, Haddaway",
-      "Album": "What Is Love 2K9",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "03:24",
-      "Key": "Gm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1145",
@@ -15013,19 +12923,6 @@
       "Date Added": "2022-06-25"
     },
     {
-      "#": "1155",
-      "Artwork": "",
-      "Track Title": "We Found Love",
-      "Artist": "Rihanna, Calvin Harris",
-      "Album": "Talk That Talk",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "03:35",
-      "Key": "F#",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1156",
       "Artwork": "",
       "Track Title": "Let’s Get This",
@@ -15078,19 +12975,6 @@
       "Date Added": "2021-07-08"
     },
     {
-      "#": "1160",
-      "Artwork": "",
-      "Track Title": "Bella Ciao",
-      "Artist": "Sound Of Legend",
-      "Album": "Bella Ciao",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "03:41",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1161",
       "Artwork": "",
       "Track Title": "Flanger Zone",
@@ -15102,19 +12986,6 @@
       "Time": "07:00",
       "Key": "",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "1162",
-      "Artwork": "",
-      "Track Title": "Hangover",
-      "Artist": "Taio Cruz, Flo Rida",
-      "Album": "TY.O (International Version)",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "04:05",
-      "Key": "Eb",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1163",
@@ -15154,19 +13025,6 @@
       "Time": "06:54",
       "Key": "Bm",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "1166",
-      "Artwork": "",
-      "Track Title": "Trompeta",
-      "Artist": "Willy William",
-      "Album": "Trompeta",
-      "Genre": "",
-      "BPM": "128.00",
-      "Rating": "",
-      "Time": "02:48",
-      "Key": "Gm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1167",
@@ -15284,19 +13142,6 @@
       "Time": "05:46",
       "Key": "",
       "Date Added": "2022-07-01"
-    },
-    {
-      "#": "1176",
-      "Artwork": "",
-      "Track Title": "Baby Got Back",
-      "Artist": "Sir Mix-A-Lot",
-      "Album": "Party Hits",
-      "Genre": "",
-      "BPM": "128.50",
-      "Rating": "",
-      "Time": "04:22",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1177",
@@ -15429,19 +13274,6 @@
       "Date Added": "2023-01-12"
     },
     {
-      "#": "1187",
-      "Artwork": "",
-      "Track Title": "Freed From Desire",
-      "Artist": "Gala",
-      "Album": "",
-      "Genre": "Dance",
-      "BPM": "128.96",
-      "Rating": "",
-      "Time": "04:11",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1188",
       "Artwork": "",
       "Track Title": "Antumalal",
@@ -15453,32 +13285,6 @@
       "Time": "02:24",
       "Key": "Dbm",
       "Date Added": "2023-01-12"
-    },
-    {
-      "#": "1189",
-      "Artwork": "",
-      "Track Title": "Freed From Desire - prod. Molella, Phil Jay",
-      "Artist": "Gala, Molella, Phil Jay",
-      "Album": "Come Into My Life (The Album)",
-      "Genre": "",
-      "BPM": "128.98",
-      "Rating": "",
-      "Time": "03:33",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "1190",
-      "Artwork": "",
-      "Track Title": "Vamos a la Playa - 1983",
-      "Artist": "Righeira",
-      "Album": "Best of Righeira (Le meilleur des annees 80)",
-      "Genre": "",
-      "BPM": "128.98",
-      "Rating": "",
-      "Time": "03:37",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1191",
@@ -15715,19 +13521,6 @@
       "Date Added": "2023-07-13"
     },
     {
-      "#": "1209",
-      "Artwork": "",
-      "Track Title": "Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",
-      "Artist": "Pitbull, Ne-Yo, AFROJACK, Nayer",
-      "Album": "Planet Pit (Deluxe Version)",
-      "Genre": "",
-      "BPM": "129.00",
-      "Rating": "",
-      "Time": "04:12",
-      "Key": "Eb",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1210",
       "Artwork": "",
       "Track Title": "Downtown",
@@ -15752,19 +13545,6 @@
       "Time": "05:46",
       "Key": "Gm",
       "Date Added": "2023-09-08"
-    },
-    {
-      "#": "1212",
-      "Artwork": "",
-      "Track Title": "It's Like That",
-      "Artist": "Run–D.M.C., Jason Nevins",
-      "Album": "The Greatest Hits",
-      "Genre": "",
-      "BPM": "129.04",
-      "Rating": "",
-      "Time": "04:10",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1213",
@@ -15986,19 +13766,6 @@
       "Time": "06:09",
       "Key": "Bbm",
       "Date Added": "2023-07-13"
-    },
-    {
-      "#": "1230",
-      "Artwork": "",
-      "Track Title": "Personal Jesus - Single Version",
-      "Artist": "Depeche Mode",
-      "Album": "The Singles 86-98",
-      "Genre": "",
-      "BPM": "129.81",
-      "Rating": "",
-      "Time": "03:45",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1231",
@@ -16339,19 +14106,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "1257",
-      "Artwork": "",
-      "Track Title": "Li Tourner - Radio Edit",
-      "Artist": "DJ Assad, Alain Ramanisum & Willy William",
-      "Album": "Li Tourner 2013 (Radio Edit)",
-      "Genre": "",
-      "BPM": "130.00",
-      "Rating": "",
-      "Time": "03:37",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1258",
       "Artwork": "",
       "Track Title": "Machine Learning - Interplanetary Criminal Remix",
@@ -16391,32 +14145,6 @@
       "Date Added": "2022-06-25"
     },
     {
-      "#": "1261",
-      "Artwork": "",
-      "Track Title": "Danza Kuduro",
-      "Artist": "Don Omar, Lucenzo",
-      "Album": "100% tubes de l'été : La bande son 100% soleil",
-      "Genre": "",
-      "BPM": "130.00",
-      "Rating": "",
-      "Time": "03:15",
-      "Key": "C",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "1262",
-      "Artwork": "",
-      "Track Title": "Maldon",
-      "Artist": "Fanny J, Lynnsha, Louisy Joseph",
-      "Album": "Tropical Family (Edition Deluxe)",
-      "Genre": "",
-      "BPM": "130.00",
-      "Rating": "",
-      "Time": "02:58",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1263",
       "Artwork": "",
       "Track Title": "Aurora Digitalis",
@@ -16454,19 +14182,6 @@
       "Time": "03:00",
       "Key": "Fm",
       "Date Added": "2023-01-12"
-    },
-    {
-      "#": "1266",
-      "Artwork": "",
-      "Track Title": "Ça m'énerve - Radio Edit",
-      "Artist": "Helmut Fritz",
-      "Album": "En observation",
-      "Genre": "",
-      "BPM": "130.00",
-      "Rating": "",
-      "Time": "03:37",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1267",
@@ -16638,19 +14353,6 @@
       "Date Added": "2023-01-12"
     },
     {
-      "#": "1280",
-      "Artwork": "",
-      "Track Title": "Party Rock Anthem",
-      "Artist": "LMFAO, Lauren Bennett, GoonRock",
-      "Album": "Sorry For Party Rocking",
-      "Genre": "",
-      "BPM": "130.00",
-      "Rating": "",
-      "Time": "04:22",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1281",
       "Artwork": "",
       "Track Title": "Hell Dragger",
@@ -16768,19 +14470,6 @@
       "Date Added": "2023-09-14"
     },
     {
-      "#": "1290",
-      "Artwork": "",
-      "Track Title": "DESPECHÁ",
-      "Artist": "ROSALÍA",
-      "Album": "DESPECHÁ",
-      "Genre": "",
-      "BPM": "130.00",
-      "Rating": "",
-      "Time": "02:37",
-      "Key": "G",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1291",
       "Artwork": "",
       "Track Title": "Xtra",
@@ -16896,19 +14585,6 @@
       "Time": "02:49",
       "Key": "",
       "Date Added": "2022-06-25"
-    },
-    {
-      "#": "1300",
-      "Artwork": "",
-      "Track Title": "Barbie Girl",
-      "Artist": "Aqua",
-      "Album": "Aquarium (Special Edition)",
-      "Genre": "",
-      "BPM": "130.01",
-      "Rating": "",
-      "Time": "03:18",
-      "Key": "E",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1301",
@@ -17041,19 +14717,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "1311",
-      "Artwork": "",
-      "Track Title": "My Boo - Hitman's Club Mix",
-      "Artist": "Ghost Town DJs",
-      "Album": "My Boo (Hitman's Club Mix)",
-      "Genre": "",
-      "BPM": "130.07",
-      "Rating": "",
-      "Time": "05:46",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1312",
       "Artwork": "",
       "Track Title": "Follow Me Ghetto (Acid)",
@@ -17065,19 +14728,6 @@
       "Time": "04:41",
       "Key": "Gm",
       "Date Added": "2022-06-25"
-    },
-    {
-      "#": "1313",
-      "Artwork": "",
-      "Track Title": "Adagio",
-      "Artist": "Lara Fabian",
-      "Album": "Lara Fabian",
-      "Genre": "",
-      "BPM": "130.10",
-      "Rating": "",
-      "Time": "04:26",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1314",
@@ -17130,19 +14780,6 @@
       "Time": "06:38",
       "Key": "",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "1318",
-      "Artwork": "",
-      "Track Title": "I Will Survive (Lalala), Original Radio Edit",
-      "Artist": "Hermes House Band",
-      "Album": "I Will Survive (Lalala), Original Radio Edit",
-      "Genre": "",
-      "BPM": "130.77",
-      "Rating": "",
-      "Time": "04:27",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1319",
@@ -17288,19 +14925,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "1330",
-      "Artwork": "",
-      "Track Title": "Cha Cha Slide",
-      "Artist": "DJ Casper",
-      "Album": "Cool - Pop",
-      "Genre": "",
-      "BPM": "131.00",
-      "Rating": "",
-      "Time": "03:40",
-      "Key": "Dbm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1331",
       "Artwork": "",
       "Track Title": "Sun Express - Emergency Mix",
@@ -17351,19 +14975,6 @@
       "Time": "03:27",
       "Key": "Gm",
       "Date Added": "2022-06-25"
-    },
-    {
-      "#": "1335",
-      "Artwork": "",
-      "Track Title": "Let's Get Loud",
-      "Artist": "Jennifer Lopez",
-      "Album": "On The 6",
-      "Genre": "",
-      "BPM": "131.00",
-      "Rating": "",
-      "Time": "03:59",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1336",
@@ -17548,19 +15159,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "1350",
-      "Artwork": "",
-      "Track Title": "Let's Get Loud",
-      "Artist": "Jennifer Lopez",
-      "Album": "On The 6",
-      "Genre": "",
-      "BPM": "131.01",
-      "Rating": "",
-      "Time": "03:58",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1351",
       "Artwork": "",
       "Track Title": "Welcome II The Warehouse",
@@ -17572,19 +15170,6 @@
       "Time": "05:01",
       "Key": "",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "1352",
-      "Artwork": "",
-      "Track Title": "You're The First, The Last, My Everything - Single Version",
-      "Artist": "Barry White",
-      "Album": "You're The First, The Last, My Everything",
-      "Genre": "",
-      "BPM": "131.42",
-      "Rating": "",
-      "Time": "03:32",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1353",
@@ -17702,45 +15287,6 @@
       "Time": "03:00",
       "Key": "Cm",
       "Date Added": "2023-01-12"
-    },
-    {
-      "#": "1362",
-      "Artwork": "",
-      "Track Title": "Turn Around",
-      "Artist": "Phats & Small",
-      "Album": "Now That's What I Call Music! 43 - CD 1",
-      "Genre": "Pop",
-      "BPM": "131.91",
-      "Rating": "",
-      "Time": "03:33",
-      "Key": "E",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "1363",
-      "Artwork": "",
-      "Track Title": "Cotton Eye Joe",
-      "Artist": "Rednex",
-      "Album": "Sex & Violins",
-      "Genre": "",
-      "BPM": "131.98",
-      "Rating": "",
-      "Time": "03:14",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "1364",
-      "Artwork": "",
-      "Track Title": "Around The World (La La La La La)",
-      "Artist": "ATC",
-      "Album": "Planet Pop",
-      "Genre": "Eurodance",
-      "BPM": "131.99",
-      "Rating": "",
-      "Time": "03:37",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1365",
@@ -18185,19 +15731,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "1399",
-      "Artwork": "",
-      "Track Title": "Samba de Janeiro",
-      "Artist": "Bellini",
-      "Album": "Samba de Janeiro",
-      "Genre": "",
-      "BPM": "132.99",
-      "Rating": "",
-      "Time": "02:48",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1400",
       "Artwork": "",
       "Track Title": "Let Me See You Butterfly (DJ Deeon Alternate Mix 2)",
@@ -18341,19 +15874,6 @@
       "Date Added": "2022-06-25"
     },
     {
-      "#": "1411",
-      "Artwork": "",
-      "Track Title": "Rabiosa (feat. Pitbull)",
-      "Artist": "Shakira, Pitbull",
-      "Album": "Sale el Sol",
-      "Genre": "",
-      "BPM": "133.00",
-      "Rating": "",
-      "Time": "02:50",
-      "Key": "Gm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1412",
       "Artwork": "",
       "Track Title": "Aciidmuzik",
@@ -18365,32 +15885,6 @@
       "Time": "05:33",
       "Key": "F#m",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "1413",
-      "Artwork": "",
-      "Track Title": "02 Feeling For You",
-      "Artist": "",
-      "Album": "",
-      "Genre": "",
-      "BPM": "133.01",
-      "Rating": "",
-      "Time": "04:37",
-      "Key": "Dbm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "1414",
-      "Artwork": "",
-      "Track Title": "Believe",
-      "Artist": "Cher",
-      "Album": "Believe",
-      "Genre": "",
-      "BPM": "133.01",
-      "Rating": "",
-      "Time": "03:59",
-      "Key": "Abm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1415",
@@ -18471,58 +15965,6 @@
       "Date Added": "2022-06-25"
     },
     {
-      "#": "1421",
-      "Artwork": "",
-      "Track Title": "Thunderstruck",
-      "Artist": "AC/DC",
-      "Album": "The Razors Edge",
-      "Genre": "",
-      "BPM": "133.35",
-      "Rating": "",
-      "Time": "04:52",
-      "Key": "Bm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "1422",
-      "Artwork": "",
-      "Track Title": "U Can't Touch This",
-      "Artist": "MC Hammer",
-      "Album": "Playlist: 90s Pop",
-      "Genre": "",
-      "BPM": "133.38",
-      "Rating": "",
-      "Time": "03:43",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "1423",
-      "Artwork": "",
-      "Track Title": "Le jerk",
-      "Artist": "Thierry Hazard",
-      "Album": "Le jerk",
-      "Genre": "",
-      "BPM": "133.38",
-      "Rating": "",
-      "Time": "03:55",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
-    },
-    {
-      "#": "1424",
-      "Artwork": "",
-      "Track Title": "Le jerk",
-      "Artist": "Thierry Hazard",
-      "Album": "Pop Music",
-      "Genre": "",
-      "BPM": "133.38",
-      "Rating": "",
-      "Time": "03:55",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1425",
       "Artwork": "",
       "Track Title": "Untitled Acid",
@@ -18599,19 +16041,6 @@
       "Time": "05:49",
       "Key": "Am",
       "Date Added": "2023-04-06"
-    },
-    {
-      "#": "1431",
-      "Artwork": "",
-      "Track Title": "Sweet Dreams",
-      "Artist": "La Bouche",
-      "Album": "Grand 90s (Vol 1)",
-      "Genre": "Dance",
-      "BPM": "133.70",
-      "Rating": "",
-      "Time": "03:23",
-      "Key": "Bm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1432",
@@ -19264,19 +16693,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "1482",
-      "Artwork": "",
-      "Track Title": "I Will Always Love You",
-      "Artist": "Whitney Houston",
-      "Album": "The Bodyguard - Original Soundtrack Album",
-      "Genre": "",
-      "BPM": "134.45",
-      "Rating": "",
-      "Time": "04:31",
-      "Key": "A",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1483",
       "Artwork": "",
       "Track Title": "Flying Fish",
@@ -19314,19 +16730,6 @@
       "Time": "03:41",
       "Key": "Ab",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "1486",
-      "Artwork": "",
-      "Track Title": "Be My Lover",
-      "Artist": "La Bouche",
-      "Album": "Frank Farian - Summer Hits",
-      "Genre": "",
-      "BPM": "134.76",
-      "Rating": "",
-      "Time": "04:01",
-      "Key": "Dbm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1487",
@@ -20265,19 +17668,6 @@
       "Date Added": "2021-07-03"
     },
     {
-      "#": "1559",
-      "Artwork": "",
-      "Track Title": "It's Raining Men",
-      "Artist": "The Weather Girls",
-      "Album": "80s 100 Hits",
-      "Genre": "",
-      "BPM": "136.28",
-      "Rating": "",
-      "Time": "03:32",
-      "Key": "Fm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1560",
       "Artwork": "",
       "Track Title": "Let Me Show You - Tall Paul Remix",
@@ -20590,19 +17980,6 @@
       "Date Added": "2022-08-16"
     },
     {
-      "#": "1584",
-      "Artwork": "",
-      "Track Title": "J't'emmène au vent",
-      "Artist": "Louise Attaque",
-      "Album": "Louise Attaque",
-      "Genre": "",
-      "BPM": "137.59",
-      "Rating": "",
-      "Time": "03:04",
-      "Key": "Abm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1585",
       "Artwork": "",
       "Track Title": "Divine Contact",
@@ -20809,19 +18186,6 @@
       "Time": "03:00",
       "Key": "Ebm",
       "Date Added": "2023-01-12"
-    },
-    {
-      "#": "1601",
-      "Artwork": "",
-      "Track Title": "Say My Name",
-      "Artist": "Destiny's Child",
-      "Album": "The Writing's On The Wall",
-      "Genre": "",
-      "BPM": "138.00",
-      "Rating": "",
-      "Time": "04:31",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1602",
@@ -21056,19 +18420,6 @@
       "Time": "05:36",
       "Key": "F#",
       "Date Added": "2023-07-13"
-    },
-    {
-      "#": "1620",
-      "Artwork": "",
-      "Track Title": "Earth Song",
-      "Artist": "Michael Jackson",
-      "Album": "Grand 90s (Vol 1)",
-      "Genre": "Pop",
-      "BPM": "138.29",
-      "Rating": "",
-      "Time": "05:01",
-      "Key": "Bbm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1621",
@@ -21747,19 +19098,6 @@
       "Date Added": "2023-09-21"
     },
     {
-      "#": "1673",
-      "Artwork": "",
-      "Track Title": "Logobitombo (Corde à sauter)",
-      "Artist": "Moussier Tombola",
-      "Album": "Le retour du dernier de la classe",
-      "Genre": "",
-      "BPM": "140.00",
-      "Rating": "",
-      "Time": "03:29",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1674",
       "Artwork": "",
       "Track Title": "Back In The Dayz",
@@ -21875,19 +19213,6 @@
       "Time": "05:58",
       "Key": "Bm",
       "Date Added": "2023-09-08"
-    },
-    {
-      "#": "1683",
-      "Artwork": "",
-      "Track Title": "Watch Me (Whip / Nae Nae)",
-      "Artist": "Silentó",
-      "Album": "Watch Me (Whip / Nae Nae)",
-      "Genre": "",
-      "BPM": "140.00",
-      "Rating": "",
-      "Time": "03:05",
-      "Key": "Ab",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1684",
@@ -22278,19 +19603,6 @@
       "Time": "06:50",
       "Key": "Am",
       "Date Added": "2023-06-09"
-    },
-    {
-      "#": "1714",
-      "Artwork": "",
-      "Track Title": "Mr. Jones",
-      "Artist": "Counting Crows",
-      "Album": "August And Everything After",
-      "Genre": "",
-      "BPM": "141.58",
-      "Rating": "",
-      "Time": "04:32",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1715",
@@ -22694,19 +20006,6 @@
       "Time": "03:00",
       "Key": "Em",
       "Date Added": "2022-08-16"
-    },
-    {
-      "#": "1746",
-      "Artwork": "",
-      "Track Title": "Follow de Leader - Edit Radio",
-      "Artist": "Nigel & Marvin",
-      "Album": "Follow de Leader",
-      "Genre": "",
-      "BPM": "143.96",
-      "Rating": "",
-      "Time": "03:41",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1747",
@@ -23320,19 +20619,6 @@
       "Date Added": "2023-09-21"
     },
     {
-      "#": "1794",
-      "Artwork": "",
-      "Track Title": "Can't Hold Us (feat. Ray Dalton)",
-      "Artist": "Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",
-      "Album": "The Heist (Deluxe Edition)",
-      "Genre": "",
-      "BPM": "146.00",
-      "Rating": "",
-      "Time": "04:18",
-      "Key": "Em",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1795",
       "Artwork": "",
       "Track Title": "Parking Lot - VIGILE Remix",
@@ -23396,19 +20682,6 @@
       "Time": "04:23",
       "Key": "Db",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "1800",
-      "Artwork": "",
-      "Track Title": "Hallelujah",
-      "Artist": "Jeff Buckley",
-      "Album": "Grace",
-      "Genre": "",
-      "BPM": "146.28",
-      "Rating": "",
-      "Time": "06:53",
-      "Key": "Am",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1801",
@@ -23918,19 +21191,6 @@
       "Date Added": "2022-06-25"
     },
     {
-      "#": "1840",
-      "Artwork": "",
-      "Track Title": "You & Me Song",
-      "Artist": "The Wannadies",
-      "Album": "Be A Girl",
-      "Genre": "",
-      "BPM": "149.06",
-      "Rating": "",
-      "Time": "02:50",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1841",
       "Artwork": "",
       "Track Title": "Lay it Down",
@@ -24321,19 +21581,6 @@
       "Date Added": "2023-09-21"
     },
     {
-      "#": "1871",
-      "Artwork": "",
-      "Track Title": "All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",
-      "Artist": "DJ Khaled",
-      "Album": "Victory",
-      "Genre": "",
-      "BPM": "150.00",
-      "Rating": "",
-      "Time": "03:52",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1872",
       "Artwork": "",
       "Track Title": "In The Middle - Part 2",
@@ -24605,19 +21852,6 @@
       "Time": "03:29",
       "Key": "D",
       "Date Added": "2021-07-03"
-    },
-    {
-      "#": "1893",
-      "Artwork": "",
-      "Track Title": "All I Want for Christmas Is You",
-      "Artist": "Mariah Carey",
-      "Album": "Merry Christmas",
-      "Genre": "",
-      "BPM": "150.16",
-      "Rating": "",
-      "Time": "04:01",
-      "Key": "G",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1894",
@@ -24919,19 +22153,6 @@
       "Date Added": "2022-06-25"
     },
     {
-      "#": "1917",
-      "Artwork": "",
-      "Track Title": "Wind of Change",
-      "Artist": "Scorpions",
-      "Album": "Comeblack",
-      "Genre": "",
-      "BPM": "152.00",
-      "Rating": "",
-      "Time": "05:08",
-      "Key": "Dm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1918",
       "Artwork": "",
       "Track Title": "Push It Girl",
@@ -24943,19 +22164,6 @@
       "Time": "03:00",
       "Key": "F#m",
       "Date Added": "2023-01-12"
-    },
-    {
-      "#": "1919",
-      "Artwork": "",
-      "Track Title": "Don't Speak",
-      "Artist": "No Doubt",
-      "Album": "Tragic Kingdom",
-      "Genre": "",
-      "BPM": "152.04",
-      "Rating": "",
-      "Time": "04:23",
-      "Key": "Cm",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1920",
@@ -25023,19 +22231,6 @@
       "Date Added": "2022-08-16"
     },
     {
-      "#": "1925",
-      "Artwork": "",
-      "Track Title": "I Have Nothing",
-      "Artist": "Whitney Houston",
-      "Album": "The Bodyguard - Original Soundtrack Album",
-      "Genre": "",
-      "BPM": "153.04",
-      "Rating": "",
-      "Time": "04:49",
-      "Key": "Ebm",
-      "Date Added": "2023-11-18"
-    },
-    {
       "#": "1926",
       "Artwork": "",
       "Track Title": "Cassa De X (Deep Dish Does X)",
@@ -25073,19 +22268,6 @@
       "Time": "04:22",
       "Key": "F",
       "Date Added": "2023-06-09"
-    },
-    {
-      "#": "1929",
-      "Artwork": "",
-      "Track Title": "7 Seconds (feat. Neneh Cherry)",
-      "Artist": "Youssou N'Dour, Neneh Cherry",
-      "Album": "The Guide (Wommat)",
-      "Genre": "",
-      "BPM": "154.18",
-      "Rating": "",
-      "Time": "05:06",
-      "Key": "F#m",
-      "Date Added": "2023-11-18"
     },
     {
       "#": "1930",

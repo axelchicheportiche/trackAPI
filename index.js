@@ -16,7 +16,13 @@ app.get('/titre_aleatoire', (req, res) => {
         try {
             const chansons = JSON.parse(data).nouvellesDonnees;
             const titreAleatoire = chansons[Math.floor(Math.random() * chansons.length)];
-            res.json({ track: titreAleatoire["Track Title"] + ' - ' + titreAleatoire["Artist"] });
+            res.json({
+                artist: titreAleatoire["Artist"],
+                track: titreAleatoire["Track Title"],
+                BPM: titreAleatoire["BPM"],
+                duration: titreAleatoire["Time"],
+            });
+
         } catch (parseError) {
             console.error(parseError);
             res.status(500).send('Erreur interne du serveur - Impossible de traiter le fichier JSON');

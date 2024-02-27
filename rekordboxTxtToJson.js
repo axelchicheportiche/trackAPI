@@ -27,10 +27,15 @@ for (let i = 1; i < lines.length; i++) {
     table.push(rowData);
 }
 
-// Afficher le tableau résultant
-console.log(table);
+//console.log(table);
 
-const jsonDataArray = JSON.stringify(table, null, 2);
+// filtrer le tableau avec la/les playlists indésirables
+const donneesFiltrees = table.filter(objet => objet["Date Added"] !== "2023-11-18");
+
+// Afficher le tableau filtré
+console.log(donneesFiltrees);
+
+const jsonDataArray = JSON.stringify(donneesFiltrees, null, 2);
 
 const trackJson = 'track.json';
 
@@ -58,6 +63,3 @@ fs.readFile(trackJson, 'utf8', (err, data) => {
         console.log('Le fichier a été mis à jour avec succès.');
     });
 });
-
-
-// Supprimer toutes les ligne '#' 'Artwork' 'Rating' "Date Added"
