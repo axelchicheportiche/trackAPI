@@ -4,7 +4,6 @@ async function fetchData() {
             method: 'GET',
             headers: {
                 'Content-Type': 'application/json',
-                // Ajoutez d'autres en-têtes nécessaires ici
             },
         });
 
