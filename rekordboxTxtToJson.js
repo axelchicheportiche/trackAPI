@@ -48,13 +48,13 @@ fs.readFile(trackJson, 'utf8', (err, data) => {
     // Convertir le contenu en objet JavaScript
     const fichierExistant = JSON.parse(data);
 
-    // Ajouter vos nouvelles données à l'objet existant
+    // Ajouter nouvelles données à l'objet existant
     fichierExistant.nouvellesDonnees = JSON.parse(jsonDataArray);
 
     // Convertir l'objet mis à jour en chaîne JSON
     const nouveauContenu = JSON.stringify(fichierExistant, null, 2);
 
-    // Réécrire le fichier avec le contenu mis à jour
+    // Réécrire le fichier avec le contenu MAJ
     fs.writeFile(trackJson, nouveauContenu, 'utf8', (err) => {
         if (err) {
             console.error('Erreur lors de l\'écriture du fichier :', err);

@@ -1,0 +1,37 @@
+@import"https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap";
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Libre Franklin", sans-serif;
+    color: antiquewhite;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+}
+.title {
+    margin-bottom: 1em;
+}
+#button {
+    margin-top: 3em;
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #656565; /* Couleur de fond du bouton */
+    color: #ffffff; /* Couleur du texte du bouton */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#button:hover {
+    background-color: #ff0000; /* Couleur de fond du bouton au survol */
+}
