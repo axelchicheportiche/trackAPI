@@ -4,7 +4,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Libre Franklin", sans-serif;
-    color: antiquewhite;
+    color: rgb(250, 235, 215);
+    background-color: black;
 }
 
 .container {
@@ -16,25 +17,65 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+#soundcloud {
+    position: absolute;
+            top: 0;
+            text-align: center;
+            margin: 10px;
+            font-size: 1em;
+            padding: 10px;
+            background: linear-gradient(to right, rgb(46, 186, 193), rgb(135, 46, 198));
+            -webkit-background-clip: text;
+            color: transparent;
+}
+#soundcloud:hover {
+    background: linear-gradient(to right, rgba(46, 186, 193,0.7), rgba(135, 46, 198,0.7));
+    -webkit-background-clip: text;
+    color: transparent;
+}
+#byname {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(to right, rgb(46, 186, 193), rgb(135, 46, 198));
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+
 .title {
     margin-bottom: 1em;
+    /* text-shadow: 2px 2px 4px rgba(250, 235, 215, 0.5); */
+    position: relative;
+    perspective: 100px;
+
+    text-shadow: 2px 2px 4px rgba(250, 235, 215, 0.5),
+                 4px 4px 8px rgba(250, 235, 215, 0.3),
+                 6px 6px 12px rgba(250, 235, 215, 0.2);
+
 }
-#button {
+
+
+.button {
     margin-top: 3em;
     display: inline-block;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
-    background-color: #656565;
+    background: linear-gradient(to right, rgb(135, 46, 198), rgb(46, 186, 193));
     color: #ffffff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
-#button:hover {
-    background-color: #ff0000;
+.button:hover {
+    background: linear-gradient(to right, rgba(135, 46, 198,0.7), rgba(46, 186, 193, 0.7));
 }
+
+
 
 
 @media only screen and (max-width: 600px) {

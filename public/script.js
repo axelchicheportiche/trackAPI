@@ -18,7 +18,7 @@ async function fetchData() {
         `
         const youtube = document.getElementById('youtube');
         youtube.innerHTML =`
-        <a id="button" href="https://www.youtube.com/results?search_query=${data.artist}+${data.track}" target="_blank">
+        <a class="button" href="https://www.youtube.com/results?search_query=${data.artist}+${data.track}" target="_blank">
             open in youtube
         </a>
         `
@@ -26,5 +26,18 @@ async function fetchData() {
         console.error('Erreur lors de la récupération des données:', error);
     }
 }
+
+function test() {
+    console.log('test')
+}
+
+// //REFRESH
+// function refresh(){
+//     fetchData()
+// }
+
+// const refreshBtn = document.getElementById('refresh');
+// refreshBtn.addEventListener("click", refresh());
+
 
 fetchData();
