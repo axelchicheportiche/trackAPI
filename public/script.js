@@ -11,8 +11,8 @@ async function fetchData() {
         console.log(data);
         const trackid = document.getElementById('trackid');
         trackid.innerHTML = `
-        Artist : ${data.artist} <br>
-        Track : ${data.track}<br>
+        ${data.artist}<br>
+        ${data.track}<br>
         BPM : ${data.BPM}<br>
         Duration : ${data.duration}
         `
