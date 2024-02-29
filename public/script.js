@@ -17,11 +17,10 @@ async function fetchData() {
         Duration : ${data.duration}
         `
         const youtube = document.getElementById('youtube');
-        youtube.innerHTML =`
-        <a class="button" href="https://www.youtube.com/results?search_query=${data.artist}+${data.track}" target="_blank">
-            open in youtube
-        </a>
-        `
+        youtube.innerHTML = `
+        <a class="button" href="https://www.youtube.com/results?search_query=${encodeURIComponent(data.artist)}+${encodeURIComponent(data.track)}" target="_blank">
+        open in youtube</a>
+        `;
     } catch (error) {
         console.error('Erreur lors de la récupération des données:', error);
     }
