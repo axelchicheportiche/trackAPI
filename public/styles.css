@@ -87,3 +87,50 @@ body {
         margin-bottom: 1em;
     }
 }
+
+
+/* Ball animation */
+
+.ball.x {
+	margin-top: 100px;
+	margin-left: 300px;
+	width: 35px;
+	height: 35px;
+	animation: x 20s ease-in-out infinite alternate, scale 15s ease-in-out infinite alternate;
+	background-color: #FFF;
+    box-shadow: 0 0 100px rgba(255, 255, 255, 0.5);
+	border-radius: 100%;
+}
+
+.ball.y {
+	top: 0;
+	position: fixed;
+	animation: y 6s ease-in-out infinite alternate;
+	mix-blend-mode: difference;
+
+	z-index: 5;
+	pointer-events: none;
+}
+
+@keyframes x {
+  100% {
+    transform: translateX( calc(100vw - 300px) );
+  }
+}
+
+@keyframes y {
+  100% {
+    transform: translateY( calc(100vh - 300px) );
+  }
+}
+
+@keyframes scale {
+  0% {
+    width: 35px;
+	height: 35px;
+  }
+  100% {
+    width: 200px;
+	height: 200px;
+  }
+}
