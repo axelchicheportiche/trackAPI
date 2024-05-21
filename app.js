@@ -24,6 +24,7 @@ module.exports = function (app) {
             try {
                 const chansons = JSON.parse(data).nouvellesDonnees;
                 const titreAleatoire = chansons[Math.floor(Math.random() * chansons.length)];
+                res.set('Access-Control-Allow-Origin', '*'); 
                 res.json({
                     artist: titreAleatoire["Artist"],
                     track: titreAleatoire["Track Title"],
